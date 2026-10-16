@@ -19,11 +19,8 @@
 - 🌱 Exploring **blockchain development** and **smart contracts** with Solidity
 - ⚡ Comfortable moving between low-level (C/C++) and high-level (Java/Python) programming
 - 💬 Ask me about C/C++, Java, Spring Boot, Python, or Solidity
-- 📫 Reach me at: your-email@example.com
-- 🤖 This README was drafted with a little help from **Claude** (Anthropic) — polished and maintained by me
-
----
-
+- 📫 Reach me at: pateldevansh453@gmail.com
+  
 ### 🛠️ Tech Stack
 
 <p align="center">
